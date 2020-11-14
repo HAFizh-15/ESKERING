@@ -1,0 +1,60 @@
+[1114/130134.324:ERROR:file_io_win.cc(162)] CreateFile C:\Users\apasi\AppData\Local\Temp\puppeteer_dev_chrome_profile-ePWtJn\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[1114/130134.338:ERROR:file_io_win.cc(171)] CreateFile C:\Users\apasi\AppData\Local\Temp\puppeteer_dev_chrome_profile-ePWtJn\Crashpad\reports\20b288ad-0680-4122-a11a-cfdbe1590760.dmp: The system cannot find the path specified. (0x3)
+[1114/130134.338:ERROR:crash_report_exception_handler.cc(99)] PrepareNewCrashReport failed
+[1114/130627.494:ERROR:file_io_win.cc(162)] CreateFile C:\Users\apasi\AppData\Local\Temp\puppeteer_dev_chrome_profile-YmPbEN\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[1114/130627.495:ERROR:file_io_win.cc(171)] CreateFile C:\Users\apasi\AppData\Local\Temp\puppeteer_dev_chrome_profile-YmPbEN\Crashpad\reports\67cc4e76-9e83-4023-91f0-0bf22e5b1750.dmp: The system cannot find the path specified. (0x3)
+[1114/130627.496:ERROR:crash_report_exception_handler.cc(99)] PrepareNewCrashReport failed
+[1114/131014.851:ERROR:file_io_win.cc(162)] CreateFile C:\Users\apasi\AppData\Local\Temp\puppeteer_dev_chrome_profile-ZlrCUt\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[1114/131014.851:ERROR:file_io_win.cc(171)] CreateFile C:\Users\apasi\AppData\Local\Temp\puppeteer_dev_chrome_profile-ZlrCUt\Crashpad\reports\2304b6ae-0983-4d39-b96f-3ff1b5f979f5.dmp: The system cannot find the path specified. (0x3)
+[1114/131014.851:ERROR:crash_report_exception_handler.cc(99)] PrepareNewCrashReport failed
+[1114/131116.818:ERROR:file_io_win.cc(162)] CreateFile C:\Users\apasi\AppData\Local\Temp\puppeteer_dev_chrome_profile-cNmkV2\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[1114/131116.820:ERROR:file_io_win.cc(171)] CreateFile C:\Users\apasi\AppData\Local\Temp\puppeteer_dev_chrome_profile-cNmkV2\Crashpad\reports\900ee9a6-036b-4bf2-8629-69568f917cb8.dmp: The system cannot find the path specified. (0x3)
+[1114/131116.820:ERROR:crash_report_exception_handler.cc(99)] PrepareNewCrashReport failed
+[1114/132126.468:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1114/133504.342:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1114/150753.926:ERROR:file_io_win.cc(162)] CreateFile C:\Users\apasi\AppData\Local\Temp\puppeteer_dev_chrome_profile-rUIO0P\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[1114/150753.930:ERROR:file_io_win.cc(171)] CreateFile C:\Users\apasi\AppData\Local\Temp\puppeteer_dev_chrome_profile-rUIO0P\Crashpad\reports\8fe1e42a-1922-4e24-bea0-10e279091311.dmp: The system cannot find the path specified. (0x3)
+[1114/150753.930:ERROR:crash_report_exception_handler.cc(99)] PrepareNewCrashReport failed
+[1114/151248.598:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1114/151803.336:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1114/153806.264:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1114/163519.747:ERROR:file_io_win.cc(162)] CreateFile C:\Users\apasi\AppData\Local\Temp\puppeteer_dev_chrome_profile-pTFiQf\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[1114/163519.750:ERROR:file_io_win.cc(171)] CreateFile C:\Users\apasi\AppData\Local\Temp\puppeteer_dev_chrome_profile-pTFiQf\Crashpad\reports\313612c3-8cbf-44ec-923c-29bb14165ac4.dmp: The system cannot find the path specified. (0x3)
+[1114/163519.750:ERROR:crash_report_exception_handler.cc(99)] PrepareNewCrashReport failed
+[1114/164047.009:ERROR:file_io_win.cc(162)] CreateFile C:\Users\apasi\AppData\Local\Temp\puppeteer_dev_chrome_profile-1VjaGM\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[1114/164047.012:ERROR:file_io_win.cc(171)] CreateFile C:\Users\apasi\AppData\Local\Temp\puppeteer_dev_chrome_profile-1VjaGM\Crashpad\reports\92a7c387-077a-40cb-a4db-d84d4807aee7.dmp: The system cannot find the path specified. (0x3)
+[1114/164047.012:ERROR:crash_report_exception_handler.cc(99)] PrepareNewCrashReport failed
+[1114/164302.995:ERROR:file_io_win.cc(162)] CreateFile C:\Users\apasi\AppData\Local\Temp\puppeteer_dev_chrome_profile-LhWinx\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[1114/164302.997:ERROR:file_io_win.cc(171)] CreateFile C:\Users\apasi\AppData\Local\Temp\puppeteer_dev_chrome_profile-LhWinx\Crashpad\reports\8b325c49-9323-4b9d-8f6e-cf63efee471d.dmp: The system cannot find the path specified. (0x3)
+[1114/164302.997:ERROR:crash_report_exception_handler.cc(99)] PrepareNewCrashReport failed
+[1114/164541.172:ERROR:file_io_win.cc(162)] CreateFile C:\Users\apasi\AppData\Local\Temp\puppeteer_dev_chrome_profile-R1QUIW\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[1114/164541.175:ERROR:file_io_win.cc(171)] CreateFile C:\Users\apasi\AppData\Local\Temp\puppeteer_dev_chrome_profile-R1QUIW\Crashpad\reports\bd30e220-a2a5-4a57-8fa6-dfadb25654e2.dmp: The system cannot find the path specified. (0x3)
+[1114/164541.175:ERROR:crash_report_exception_handler.cc(99)] PrepareNewCrashReport failed
+[1114/165311.035:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1114/170656.045:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1114/172836.698:ERROR:file_io_win.cc(162)] CreateFile C:\Users\apasi\AppData\Local\Temp\puppeteer_dev_chrome_profile-xTygBu\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[1114/172836.700:ERROR:file_io_win.cc(171)] CreateFile C:\Users\apasi\AppData\Local\Temp\puppeteer_dev_chrome_profile-xTygBu\Crashpad\reports\f71cd5bb-7145-49d6-85d8-7dc02fe8d93d.dmp: The system cannot find the path specified. (0x3)
+[1114/172836.700:ERROR:crash_report_exception_handler.cc(99)] PrepareNewCrashReport failed
+[1114/175236.102:ERROR:file_io_win.cc(162)] CreateFile C:\Users\apasi\AppData\Local\Temp\puppeteer_dev_chrome_profile-gvBv7g\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[1114/175236.103:ERROR:file_io_win.cc(171)] CreateFile C:\Users\apasi\AppData\Local\Temp\puppeteer_dev_chrome_profile-gvBv7g\Crashpad\reports\3a8a6d56-64d8-4371-8227-409b7c9fd71f.dmp: The system cannot find the path specified. (0x3)
+[1114/175236.103:ERROR:crash_report_exception_handler.cc(99)] PrepareNewCrashReport failed
+[1114/175621.809:ERROR:file_io_win.cc(162)] CreateFile C:\Users\apasi\AppData\Local\Temp\puppeteer_dev_chrome_profile-wyZFVL\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[1114/175621.810:ERROR:file_io_win.cc(171)] CreateFile C:\Users\apasi\AppData\Local\Temp\puppeteer_dev_chrome_profile-wyZFVL\Crashpad\reports\019a49ce-8253-4c7a-8f2e-7045119b764f.dmp: The system cannot find the path specified. (0x3)
+[1114/175621.810:ERROR:crash_report_exception_handler.cc(99)] PrepareNewCrashReport failed
+[1114/175732.078:ERROR:file_io_win.cc(162)] CreateFile C:\Users\apasi\AppData\Local\Temp\puppeteer_dev_chrome_profile-RhwkuD\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[1114/175732.080:ERROR:file_io_win.cc(171)] CreateFile C:\Users\apasi\AppData\Local\Temp\puppeteer_dev_chrome_profile-RhwkuD\Crashpad\reports\2b878b1c-245f-4b11-88db-a6745306f866.dmp: The system cannot find the path specified. (0x3)
+[1114/175732.080:ERROR:crash_report_exception_handler.cc(99)] PrepareNewCrashReport failed
+[1114/180744.626:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1114/181605.060:ERROR:file_io_win.cc(162)] CreateFile C:\Users\apasi\AppData\Local\Temp\puppeteer_dev_chrome_profile-N347zR\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[1114/181605.060:ERROR:file_io_win.cc(171)] CreateFile C:\Users\apasi\AppData\Local\Temp\puppeteer_dev_chrome_profile-N347zR\Crashpad\reports\eb9096a4-e444-460d-ac3a-0de908c53053.dmp: The system cannot find the path specified. (0x3)
+[1114/181605.060:ERROR:crash_report_exception_handler.cc(99)] PrepareNewCrashReport failed
+[1114/194146.292:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1114/194318.768:ERROR:file_io_win.cc(162)] CreateFile C:\Users\apasi\AppData\Local\Temp\puppeteer_dev_chrome_profile-lmiiA9\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[1114/194318.769:ERROR:file_io_win.cc(171)] CreateFile C:\Users\apasi\AppData\Local\Temp\puppeteer_dev_chrome_profile-lmiiA9\Crashpad\reports\dfbf0a6a-af2b-4158-8e2d-10a731bd19c2.dmp: The system cannot find the path specified. (0x3)
+[1114/194318.769:ERROR:crash_report_exception_handler.cc(99)] PrepareNewCrashReport failed
+[1114/204053.497:ERROR:file_io_win.cc(162)] CreateFile C:\Users\apasi\AppData\Local\Temp\puppeteer_dev_chrome_profile-pnT3VH\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[1114/204053.500:ERROR:file_io_win.cc(171)] CreateFile C:\Users\apasi\AppData\Local\Temp\puppeteer_dev_chrome_profile-pnT3VH\Crashpad\reports\ac6f440e-a676-47b4-a62d-d35cc1c50fd8.dmp: The system cannot find the path specified. (0x3)
+[1114/204053.501:ERROR:crash_report_exception_handler.cc(99)] PrepareNewCrashReport failed
+[1114/205001.939:ERROR:file_io_win.cc(162)] CreateFile C:\Users\apasi\AppData\Local\Temp\puppeteer_dev_chrome_profile-hEu7ku\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[1114/205001.941:ERROR:file_io_win.cc(171)] CreateFile C:\Users\apasi\AppData\Local\Temp\puppeteer_dev_chrome_profile-hEu7ku\Crashpad\reports\f8fadcc3-67ff-4813-8bdd-63bad351eec5.dmp: The system cannot find the path specified. (0x3)
+[1114/205001.941:ERROR:crash_report_exception_handler.cc(99)] PrepareNewCrashReport failed
